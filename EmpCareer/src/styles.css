@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+.boxAlignCenter{
+padding: 50px 30px 50px 52px;
+margin: 30px 10px 10px 340px;
+border-bottom:1px;
+width: 505px;
+height: 202px;
+background-color: aliceblue;
+}
+.spacer{
+    height:5px;
+}
+.header{
+  font-size: 22px;
+   color: #201dec;
+   font-family: cursive;
+    }
+ body{
+    background-image:url(../src/images/im5.jpg);
+    background-repeat: no-repeat;  
+    opacity: 01.5;  
+    
+} 
